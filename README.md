@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tiger15cub</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiger15cub&label=Profile%20views&color=fff829&style=plastic" alt="tiger15cub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiger15cub" alt="tiger15cub" /></a> </p>
 
 - 🌱 I’m currently learning **C# and JavaScript**
 
 - ⚡ Fun fact **I like cats**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiger15cub&label=Profile%20views&color=fff829&style=plastic" alt="tiger15cub" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiger15cub" alt="tiger15cub" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
