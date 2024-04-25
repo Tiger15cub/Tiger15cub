@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning **Javascript and C++**
   
 ***Languages and Tools***
-<p align="left"> <a href="https://zyloxmods.me" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://zyloxmods.me" target="_blank" rel="noreferrer"> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" width="30" /></a></p>
 
 
