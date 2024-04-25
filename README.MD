@@ -1,10 +1,6 @@
 <h1 align="left">Hello 👋, I'm Tiger15cub</h1>
 
 - 🌱 I’m currently learning **Javascript and C++**
-  
-***Languages and Tools***
-<a href="https://code.visualstudio.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" width="30" /></a></p>
-
 
 
 ***Connect with me:***
